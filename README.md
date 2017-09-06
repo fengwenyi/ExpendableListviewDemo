@@ -86,9 +86,8 @@ Main代码：
         expendableListview.setAdapter(adapter)
 ```
 
+###### About me
 ```
-About me
-
 WenyiFeng(xfsy2014@gmail.com)
 
 Copyright © 2017 fengwenyi.com. All Rights Reserved.
